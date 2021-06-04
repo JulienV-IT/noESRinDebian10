@@ -22,7 +22,7 @@ sleep 5
     
 sudo apt install wget -y #download wget
 
-wget -O Firefox.tar.bz2 "https://ftp.mozilla.org/pub/firefox/releases/84.0.1/linux-x86_64/fr/firefox-84.0.1.tar.bz2" #get the tar of firefox
+wget -O Firefox.tar.bz2 "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=fr" #get the tar of firefox
 
 sleep 5
 
