@@ -22,6 +22,8 @@ sleep 5
     
 sudo apt install wget -y #download wget
 
+sudo apt remove firefox-esr
+
 wget -O Firefox.tar.bz2 "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=fr" #get the tar of firefox
 
 sleep 5
