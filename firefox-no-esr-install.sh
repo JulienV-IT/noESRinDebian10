@@ -63,7 +63,7 @@ echo "[Desktop Entry]
 
  # move at the right place the desktop file
  sudo cp firefox-custom.desktop /usr/share/applications/ && echo "we create an desktop icon for firefox and move it"
- cp firefox-custom.desktop /home/zegzer/Bureau
+ cp firefox-custom.desktop /$HOME/Bureau
  
  sleep 5
  
